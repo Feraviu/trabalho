@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style>
+   
+    img {
+      width: 150px; 
+      height: auto; 
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Série The Boys</h1>
+
+  <h2>Sinopse</h2>
+  <p>Billy e seus amigos são contratados pela CIA com a função de vigiarem os super-heróis. Dessa forma, o governo consegue fazer com que os superpoderes deles não saiam do controle. Nessa tocaia, Billy e companhia descobrem que esses super-heróis tão idolatrados pela população não são nada certinhos.</p>
+  
+  <h2>Informações básicas</h2>
+  <p>Duração: 54min</p>
+  <p>Ano: 2019</p>
+  <p><b>Género:</b></p>
+  <ul>
+    <li>Ação</li>
+    <li>Aventura</li>
+    <li>Comédia</li>
+    <li>Ficção Científica</li>
+  </ul>
+
+  <h2>Personagens principais</h2>
+  <ul>
+    <li><a href="#personagem-billy">Billy Bruto</a></li>
+    <li><a href="#personagem-hughie">Hughie Campbell</a></li>
+    <li><a href="#personagem-capitao">Capitão Pátria</a></li>
+    <li><a href="#personagem-profundo">Profundo</a></li>
+    <li><a href="#personagem-luz">Luz-Estrela</a></li>
+  </ul>
+
+  <table border="1">
+    <tr>
+      <th>Atores e Personagens</th>
+      <th>Descrição</th>
+      <th>Imagens</th>
+    </tr>
+    <tr id="personagem-billy">
+      <td>Karl Urban (Billy Bruto)</td>
+      <td>Ex-agente da CIA determinado a matar Capitão Pátria custe o que custar.</td>
+      <td><img src="https://www.looper.com/img/gallery/the-deeper-meaning-behind-billy-butchers-powers-in-the-boys-season-3/intro-1654372200.jpg" alt="Karl Urban como Billy Bruto" /></td>
+    </tr>
+    <tr id="personagem-capitao">
+      <td>Antony Starr (Capitão Pátria)</td>
+      <td>Criado como cobaia de laboratório e com o poder acima da cabeça, ele pensa que é a lei fazendo o que quiser, incluindo matar civis por diversão.</td>
+      <td><img src="https://poltronanerd.com.br/wp-content/uploads/2020/09/homelander-1-1.jpg" alt="Antony Starr como Capitão Pátria" /></td>
+    </tr>
+    <tr id="personagem-profundo">
+      <td>Chace Crawford (Profundo)</td>
+      <td>Um dos cachorrinhos do Capitão Pátria que apenas serve ele não por respeito, e sim por medo.</td>
+      <td><img src="https://static.glamurama.uol.com.br/2019/08/chacec.jpg" alt="Chace Crawford como Profundo" /></td>
+    </tr>
+    <tr id="personagem-hughie">
+      <td>Jack Quaid (Hughie Campbell)</td>
+      <td>Medroso e mijão que às vezes tem que ser o herói quando os outros precisam de ajuda.</td>
+      <td><img src="https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2024/06/26132701/The-Boys-Wee-Hughie.jpg" alt="Jack Quaid como Hughie Campbell" /></td>
+    </tr>
+  </table>
+
+  <p><a href="#personagens-principais">Voltar para a lista de personagens</a></p>
+
+  <footer>
+    <h2>Trailer</h2>
+    <p><a href="https://www.youtube.com/watch?v=KJ8yKaRQyz4" target="_blank">Assista ao teaser/trailer no YouTube</a></p>
+  </footer>
+</body>
+
+</html>
